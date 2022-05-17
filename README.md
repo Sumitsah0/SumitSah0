@@ -6,11 +6,11 @@
 
 
 
-## I'm a Student, Developer, ML & Devops Enthusiast!!
+## I'm a Student, Developer, ML  Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about Machine Learning
 - ⚡ Fun fact: I love to draw digital arts
 
 
