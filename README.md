@@ -1,5 +1,7 @@
 # Hi there, I'm Sumit - aka [instant learning][youtube] 👋 
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPIXa3qnZ4GRpZGxNa5SR5Q?logo=youtube&logoColor=red&style=for-the-badge)]
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumitSah_Jr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/SumitSah_Jr&screen_name=SumitSah_jr)
 
 
@@ -23,8 +25,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sumit-prasad-sah/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sumit-prasad-sah/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/sumitsah_jr/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/sumitsah_jr/#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
