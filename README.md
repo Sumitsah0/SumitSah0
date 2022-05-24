@@ -1,6 +1,6 @@
 # Hi there, I'm Sumit - aka [instant learning][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPIXa3qnZ4GRpZGxNa5SR5Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPIXa3qnZ4GRpZGxNa5SR5Q?logo=youtube&logoColor=red&style=for-the-badge)]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumitSah_Jr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/SumitSah_Jr&screen_name=SumitSah_jr)
 
