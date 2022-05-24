@@ -53,6 +53,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCPIXa3qnZ4GRpZGxNa5SR5Q/featured)
 
+<!-- YOUTUBE:END -->
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -62,6 +64,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@er.sumitsah)
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
